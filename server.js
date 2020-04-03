@@ -7,6 +7,7 @@ var app = express();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
 
+mongoose.Promise = global.Promise;
 mongoose.connect(config.database, function(error) {
 	if(error) {
 		console.log(error);
