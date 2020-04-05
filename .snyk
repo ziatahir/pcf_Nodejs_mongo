@@ -113,3 +113,19 @@ patch:
         patched: '2020-04-05T13:31:22.579Z'
     - socketio > socket.io > socket.io-client > socket.io-parser > debug > ms:
         patched: '2020-04-05T13:31:22.579Z'
+    - socketio > socket.io > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > engine.io > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > socket.io-adapter > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > socket.io-client > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > socket.io-client > engine.io-client > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > socket.io-parser > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
+    - socketio > socket.io > socket.io-client > socket.io-parser > debug > ms:
+        patched: '2020-04-05T13:38:53.176Z'
