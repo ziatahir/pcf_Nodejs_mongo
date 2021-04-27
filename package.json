@@ -18,7 +18,7 @@
     "jsonwebtoken": "^7.4.1",
     "mongoose": "^5.7.5",
     "morgan": "^1.6.1",
-    "socket.io": "^2.0.2",
+    "socket.io": "^3.0.0",
     "socketio": "^1.0.0",
     "snyk": "^1.305.0"
   },
